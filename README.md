@@ -18,7 +18,7 @@ https://keras.io/#installation
 * Install python virtualenv \
   `sudo pip install --upgrade virtualenv`
 * Create a virtualenv for your tensorflow \
-  `virtualenv --system-site-packages ~/virtualenv`
+  `virtualenv --system-site-packages ~/tensorflow`
 * Activate the virtualenv \
   `source ~/tensorflow/bin/activate`
 * Ensure pip is installed in this virtualenv \
