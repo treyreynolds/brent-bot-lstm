@@ -159,7 +159,7 @@ and compare the result to the (resized) original image.
 
 
 # Playing with these hyperparameters will also allow you to achieve new effects
-step = 0.01  # Gradient ascent step size
+step = 0.005  # Gradient ascent step size
 num_octave = 3  # Number of scales at which to run gradient ascent
 octave_scale = 1.4  # Size ratio between scales
 iterations = 20  # Number of ascent steps per scale
